@@ -1,5 +1,6 @@
 # FastText swift wrapper test
 
 Build with
-    `swift build -Xcxx -std=c++11
+
+    swift build -Xcxx -std=c++11
     
