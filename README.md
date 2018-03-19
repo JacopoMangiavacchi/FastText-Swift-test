@@ -1,3 +1,5 @@
-# swifttest
+# FastText swift wrapper test
 
-A description of this package.
+Build with
+    swift build -Xcxx -std=c++11
+    
